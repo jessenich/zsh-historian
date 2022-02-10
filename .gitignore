@@ -2,4 +2,9 @@
 **.DS_Store
 **.log
 history/**
-
+**.sqlite
+**.sqlite3
+**.db
+**.db-journal
+**.db-wal
+**.db-shm
